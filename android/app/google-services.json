@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "907478894716",
+    "firebase_url": "https://loja-virtual-ff378.firebaseio.com",
+    "project_id": "loja-virtual-ff378",
+    "storage_bucket": "loja-virtual-ff378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907478894716:android:77e3371b24bac9ef1421f9",
+        "android_client_info": {
+          "package_name": "ao.com.tchernichevisk.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907478894716-lurlck17kr9smjvnp4l0vf2gcg9e3f07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPmkbkgzxmxtlktLE2vyAyrlfMxViU95E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907478894716-lurlck17kr9smjvnp4l0vf2gcg9e3f07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
